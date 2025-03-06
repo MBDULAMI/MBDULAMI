@@ -1,4 +1,4 @@
-Hi, I’m Maryam Computer Science student in my second year.. 
+Hi, I’m Maryam Computer Science student.. 
 - I’m interested in programming, searching in tech field
 - I’m currently learning C++, Python
 
